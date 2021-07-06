@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "EngineMinimal.h"
 #include "GameFramework/GameModeBase.h"
 #include "UE4_DreamTeamGameMode.generated.h"
 
